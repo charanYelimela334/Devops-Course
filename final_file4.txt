@@ -1,0 +1,4 @@
+This is the Final Text Final for Git Version Control
+git add <filename>
+git commit -m "Commit Name"
+git push origin master
