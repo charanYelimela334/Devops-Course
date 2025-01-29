@@ -1,4 +1,10 @@
 This is the Final Text Final for Git Version Control
+git init-To intialzie the Git
+git status-To Know the Git status of file
+git remote add origin "GitHub URL"-to upload in GitHub the above the steps are to load in local Computer
+
+
+
 git add <filename>
 git commit -m "Commit Name"
 git push origin master
